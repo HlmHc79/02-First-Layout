@@ -1,6 +1,8 @@
 # 02-First-Layout
 Second project. After a coffee chat, the advice I received was to look at designs/layouts I like and try to reproduce them. The idea is to learn as I need. 
 
+You can visit it [here](https://hlmhc79.github.io/02-First-Layout/).
+
 ## What I learned
 - Flexbox
 - Making the page responsive

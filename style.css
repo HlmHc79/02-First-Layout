@@ -17,7 +17,7 @@ ul {
 }
 .container1 {
     height:100vh;
-    background-color: rgb(103, 116, 217);
+    background-color: rgb(143, 151, 217);
     background-blend-mode: multiply;
     background-image: url('images/hero1.jpg');
     background-size: cover;
